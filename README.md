@@ -18,10 +18,10 @@ SnippetHub is an open-source project aimed at creating a centralized repository 
 
 To get started with SnippetHub, follow these steps:
 
-1. **Clone the Repository:** \`git clone https://github.com/your-username/SnippetHub.git\`
+1. **Clone the Repository:** git clone https://github.com/silas-inegbe/Snippet_Hub.git
 
 2. **Contribute:**
-   - Add your code snippets to the appropriate language directories in the \`snippets/\` folder.
+   - Add your code snippets to the appropriate language directories in the snippets folder.
    
 3. **Submit a Pull Request:** 
    - Submit a pull request to have your code snippets reviewed and added to the repository.
